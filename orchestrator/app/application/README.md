@@ -1,0 +1,1 @@
+The application layer, housing the use cases of the application. It orchestrates the flow of data between the presentation layer and domain services, ensuring that business rules are correctly applied.

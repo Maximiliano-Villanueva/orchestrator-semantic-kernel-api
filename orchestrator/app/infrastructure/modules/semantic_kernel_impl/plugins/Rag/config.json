@@ -1,0 +1,4 @@
+{
+    "plugin_name": "rag",
+    "plugin_description": "Default plugin to call when no other plugin can be used. Any information not provided by other functions are meant to be retrieved from here."
+}

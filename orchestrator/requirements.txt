@@ -1,0 +1,5 @@
+requests
+semantic-kernel==0.9.5b1
+fastapi
+uvicorn
+python-dotenv

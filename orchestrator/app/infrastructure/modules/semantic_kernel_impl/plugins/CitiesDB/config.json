@@ -1,0 +1,4 @@
+{
+    "plugin_name": "cities_db",
+    "plugin_description": "Plugin useful to retrieve cities based on some filters."
+}

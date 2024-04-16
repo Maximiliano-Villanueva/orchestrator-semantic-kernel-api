@@ -1,0 +1,10 @@
+I have the following Question:
+{{$question}}.
+
+And the following context:
+{{$previous_output}}
+
+I need you to return the same question updated based on the context provided.
+If the context is not useful return the same input question.
+Use only the information provided and nothing more.
+Do not include anything but the question generated in your response.

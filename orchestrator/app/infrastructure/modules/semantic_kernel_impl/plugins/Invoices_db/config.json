@@ -1,0 +1,4 @@
+{
+    "plugin_name": "invoices",
+    "plugin_description": "Retrieve information about invoices and the users related to them. Execute write operations on invoices like update, upsert on inserts."
+}
